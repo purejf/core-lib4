@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'core-lib4_Example' do
+  pod 'core-lib4', :path => '../'
+
+  target 'core-lib4_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
