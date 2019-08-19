@@ -1,0 +1,16 @@
+PODS:
+  - core-lib4 (0.1.0)
+
+DEPENDENCIES:
+  - core-lib4 (from `../`)
+
+EXTERNAL SOURCES:
+  core-lib4:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  core-lib4: 6cb4c8b5e6e368286bbf1a8be808f23ddd2f07c9
+
+PODFILE CHECKSUM: 6d126e4b0079ed7c541a0defae9fd12608a1014d
+
+COCOAPODS: 1.7.2

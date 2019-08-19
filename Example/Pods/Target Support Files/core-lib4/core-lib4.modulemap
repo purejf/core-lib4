@@ -1,0 +1,6 @@
+framework module core_lib4 {
+  umbrella header "core-lib4-umbrella.h"
+
+  export *
+  module * { export * }
+}
